@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>17</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>187</x>
+      <y>153</y>
+      <w>1054</w>
+      <h>731</h>
+    </coordinates>
+    <panel_attributes>CreateOrder(id, totalPrice, tax, date, status, discountPrice, Customer, Company, Employee)
+--
+Use Case: Create Order
+
+Pre-condition: Employee (kontormedarbejder) exists in database and is logged in
+Product exists in database
+Company exists in database
+
+Post condition: Is associated with Employee
+Is associated with Product
+Is associated with Customer
+Is associated with Company
+
+
+
+Operation: Create(id, totalPrice, tax, date, status, discountPrice, Customer, Company, Employee)
+Use case: Create Order
+
+Pre-Condition: Employee (kontormedarbejder) exists in database and is logged in
+Product exists in database
+Company exists in database
+
+Post condition: An instance of Order was created (Instance creation)
+					An instance of SaleLineItem was created (Instance creation)
+					SaleLineItem was associated with Order (Association formed)
+					SaleLineItem was associated with Quantity, Price (Association formed)
+					
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

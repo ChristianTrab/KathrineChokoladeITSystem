@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="gui.GUIMain" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/gui/GUIMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="356" y="82"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="gui.GUINewOrder" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/gui/GUINewOrder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="821" y="279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="gui.GUIAddProduct" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/gui/GUIAddProduct.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1319" y="338"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="ctr.OrderCtr" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/ctr/OrderCtr.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="358" y="1274"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="ctr.SaleLineItemCtr" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/ctr/SaleLineItemCtr.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1000" y="1348"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="ctr.CustomerCtr" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/ctr/CustomerCtr.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1552" y="1348"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="ctr.ProductCtr" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/ctr/ProductCtr.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-132" y="1327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="model.Order" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/model/Order.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="324" y="2030"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="model.Customer" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/model/Customer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="753" y="2032"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="model.Product" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/model/Product.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1098" y="2098"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="db.DBConnection" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/db/DBConnection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3263" y="2006"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="db.DBCustomer" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/db/DBCustomer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1925" y="1942"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="db.DBProduct" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/db/DBProduct.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2357" y="1924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="db.DBOrder" project="Kathrine andersen chokolade" 
+    file="/Kathrine andersen chokolade/src/db/DBOrder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2803" y="1975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="15">    
+    <bendpoint x="1560" y="1486"/>    
+    <bendpoint x="776" y="1481"/>    
+    <bendpoint x="772" y="1812"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="16">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="17" name="guiNewOrder">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="18" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="19">    
+    <bendpoint x="1965" y="2055"/>    
+    <bendpoint x="1968" y="2395"/>    
+    <bendpoint x="3267" y="2388"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="20">    
+    <bendpoint x="-149" y="1457"/>    
+    <bendpoint x="-149" y="1705"/>    
+    <bendpoint x="2355" y="1730"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="21" name="dbProduct">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="22" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="23">    
+    <bendpoint x="381" y="488"/>    
+    <bendpoint x="379" y="654"/>    
+    <bendpoint x="712" y="656"/>    
+    <bendpoint x="711" y="1810"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="24">    
+    <bendpoint x="728" y="1399"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="25" name="orderCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="26" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="27">    
+    <bendpoint x="1929" y="2395"/>    
+    <bendpoint x="756" y="2399"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="28">    
+    <bendpoint x="960" y="1241"/>    
+    <bendpoint x="960" y="1034"/>    
+    <bendpoint x="-226" y="1034"/>    
+    <bendpoint x="-225" y="1190"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="29" name="productCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="30" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="31">    
+    <bendpoint x="387" y="1464"/>    
+    <bendpoint x="386" y="1514"/>    
+    <bendpoint x="642" y="1512"/>    
+    <bendpoint x="641" y="1798"/>    
+    <bendpoint x="679" y="1798"/>    
+    <bendpoint x="682" y="1825"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="32">    
+    <bendpoint x="1327" y="1018"/>    
+    <bendpoint x="-161" y="1024"/>    
+    <bendpoint x="-162" y="1188"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="33">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="34" name="dbConnection">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="35" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="37" name="guiNewOrder">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="38" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <bendpoint x="820" y="912"/>    
+    <bendpoint x="1000" y="912"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="40" name="saleLineItemCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="41" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="42">    
+    <bendpoint x="-134" y="1558"/>    
+    <bendpoint x="969" y="1560"/>    
+    <bendpoint x="975" y="1819"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="43">    
+    <bendpoint x="466" y="479"/>    
+    <bendpoint x="466" y="630"/>    
+    <bendpoint x="1548" y="634"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="44" name="customerCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="45" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <bendpoint x="1319" y="-5"/>    
+    <bendpoint x="609" y="-3"/>    
+    <bendpoint x="609" y="83"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="47" name="guiMain">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="48" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="50" name="orderCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="51" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="52">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="53">    
+    <bendpoint x="2402" y="2026"/>    
+    <bendpoint x="2404" y="2168"/>    
+    <bendpoint x="3048" y="2166"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="54">    
+    <bendpoint x="793" y="517"/>    
+    <bendpoint x="793" y="1106"/>    
+    <bendpoint x="673" y="1105"/>    
+    <bendpoint x="664" y="1611"/>    
+    <bendpoint x="418" y="1609"/>    
+    <bendpoint x="416" y="1734"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="55">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="56" name="dbCustomer">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="57" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <bendpoint x="298" y="484"/>    
+    <bendpoint x="297" y="968"/>    
+    <bendpoint x="37" y="966"/>    
+    <bendpoint x="31" y="1689"/>    
+    <bendpoint x="105" y="1689"/>    
+    <bendpoint x="105" y="1735"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="59" name="activeList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="60" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="62" name="guiMain">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="63" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="64">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="65">    
+    <bendpoint x="376" y="1453"/>    
+    <bendpoint x="374" y="1537"/>    
+    <bendpoint x="2804" y="1559"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="66" name="dbOrder">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="67" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="69" name="customer">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="70" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="71">    
+    <bendpoint x="855" y="1457"/>    
+    <bendpoint x="853" y="1473"/>    
+    <bendpoint x="845" y="1819"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="1314" y="915"/>    
+    <bendpoint x="1047" y="915"/>    
+    <bendpoint x="1048" y="1227"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="73">    
+    <bendpoint x="1190" y="517"/>    
+    <bendpoint x="1187" y="1139"/>    
+    <bendpoint x="730" y="1140"/>    
+    <bendpoint x="722" y="1632"/>    
+    <bendpoint x="475" y="1632"/>    
+    <bendpoint x="473" y="1727"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="74" name="order">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="75" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <bendpoint x="701" y="512"/>    
+    <bendpoint x="697" y="1142"/>    
+    <bendpoint x="688" y="1784"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="77" name="list">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="78" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="79">    
+    <bendpoint x="2357" y="2096"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="80">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="81">    
+    <bendpoint x="1313" y="587"/>    
+    <bendpoint x="483" y="587"/>    
+    <bendpoint x="480" y="1065"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="82" name="orderCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="83" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="84">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="85">    
+    <bendpoint x="998" y="1492"/>    
+    <bendpoint x="740" y="1492"/>    
+    <bendpoint x="736" y="1676"/>    
+    <bendpoint x="531" y="1676"/>    
+    <bendpoint x="529" y="1727"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="86">    
+    <bendpoint x="451" y="491"/>    
+    <bendpoint x="449" y="750"/>    
+    <bendpoint x="636" y="751"/>    
+    <bendpoint x="656" y="1714"/>    
+    <bendpoint x="1009" y="1714"/>    
+    <bendpoint x="1012" y="1819"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="87">    
+    <bendpoint x="2720" y="2131"/>    
+    <bendpoint x="2720" y="2197"/>    
+    <bendpoint x="2036" y="2198"/>    
+    <bendpoint x="2036" y="2063"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="88" name="dBCustomer">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="89" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <bendpoint x="528" y="521"/>    
+    <bendpoint x="531" y="1064"/>    
+    <bendpoint x="919" y="1065"/>    
+    <bendpoint x="920" y="1153"/>    
+    <bendpoint x="920" y="1217"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="91" name="saleLineItemCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="92" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="93">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="94">    
+    <bendpoint x="1363" y="515"/>    
+    <bendpoint x="1364" y="1171"/>    
+    <bendpoint x="1191" y="1171"/>    
+    <bendpoint x="1192" y="1516"/>    
+    <bendpoint x="1098" y="1516"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="95" name="productList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="96" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="97">    
+    <bendpoint x="2809" y="2366"/>    
+    <bendpoint x="450" y="2383"/>    
+    <bendpoint x="450" y="2328"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="98">    
+    <bendpoint x="652" y="507"/>    
+    <bendpoint x="652" y="537"/>    
+    <bendpoint x="582" y="537"/>    
+    <bendpoint x="582" y="574"/>    
+    <bendpoint x="416" y="574"/>    
+    <bendpoint x="415" y="669"/>    
+    <bendpoint x="413" y="1065"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="99">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="100" name="saleLineItemCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="101" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <bendpoint x="251" y="504"/>    
+    <bendpoint x="250" y="921"/>    
+    <bendpoint x="-57" y="921"/>    
+    <bendpoint x="-57" y="1189"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="103" name="productCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="104" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <bendpoint x="320" y="470"/>    
+    <bendpoint x="318" y="985"/>    
+    <bendpoint x="54" y="985"/>    
+    <bendpoint x="52" y="1676"/>    
+    <bendpoint x="183" y="1676"/>    
+    <bendpoint x="182" y="1732"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="106" name="orderList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="107" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <bendpoint x="872" y="525"/>    
+    <bendpoint x="872" y="697"/>    
+    <bendpoint x="1489" y="700"/>    
+    <bendpoint x="1490" y="1226"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="109" name="customerCtr">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="110" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="111">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="112">    
+    <bendpoint x="1154" y="517"/>    
+    <bendpoint x="1155" y="985"/>    
+    <bendpoint x="760" y="982"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="113">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
